@@ -10,6 +10,15 @@ math: true
 
 Hello this is my blog. I suck at html
 
+Inline: \( \Gamma \)
+
+Block:
+
+$$
+\Gamma
+$$
+
+
 ---
 
 Consider the curve \( \Gamma \) defined by the function:
