@@ -15,9 +15,8 @@ Inline: \( \Gamma \)
 Block:
 
 $$
-\Gamma
+y = a(x - 1)^3 + b(x - 1)^2 + cx + 2 \quad \text{on } \Gamma
 $$
-
 
 ---
 
