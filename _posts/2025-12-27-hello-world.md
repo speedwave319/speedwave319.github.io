@@ -36,7 +36,8 @@ Hello this is my blog. I suck at html
 
 
 In bi), as $x = 1$ is a maximum point of $\Gamma$, therefore $\frac{d^2y}{dx^2}\Big|_{x=1} = 0$.
-solving the inequality, we have $b < 0$. 
+
+Solving the inequality, we have $b < 0$. 
 
 
 
