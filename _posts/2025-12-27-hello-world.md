@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hello World"
 date: 2025-12-27 20:50:00 +0800
 categories: [Hello World]
