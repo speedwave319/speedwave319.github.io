@@ -19,10 +19,8 @@ Hello this is my blog. I suck at html
 ## (a) Find $c$.
 
 ## (b) It is given that the y-intercept of $\Gamma$ is $1$ and $ab = 6$.
-
-
-## (i) Someone claims that there are two possible values of $a$. Do you agree? Explain your answer.
-##     (ii) Find the other extreme point(s) of $\Gamma$.
+(i) Someone claims that there are two possible values of $a$. Do you agree? Explain your answer.
+(ii) Find the other extreme point(s) of $\Gamma$.
 
 
 # Worked Solution
