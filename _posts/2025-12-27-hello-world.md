@@ -33,9 +33,9 @@ Hello this is my blog. I suck at html
 
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/image3.jpg)
 
-In bi), as $x = 1$ is a maximum point of $\Gamma$, therefore $\\frac{dy}{dx}\\Big|_{x=1} = 0$.
+In bi), as $x = 1$ is a maximum point of $\Gamma$, therefore $\\frac{d^2y}{dx^2}\\Big|_{x=1} = 0$.
 
-solving, we have $b < 0$. 
+solving the inequality, we have $b < 0$. 
 
 
 
