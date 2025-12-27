@@ -26,7 +26,7 @@ Hello this is my blog. I suck at html
 
 # Worked Solution
 
-![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/Untitled%20Notebook-2.pdf)
+[![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/image3.jpg)
 
 
 
