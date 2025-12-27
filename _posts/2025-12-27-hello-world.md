@@ -5,7 +5,7 @@ date: 2025-12-27 20:50:00 +0800
 categories: [Hello World]
 tags: [test]     # TAG names should always be lowercase
 math: true
-description: Short summary of the post.
+description: test post with a math question
 ---
 
 #Hello World 
