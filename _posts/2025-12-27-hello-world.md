@@ -13,7 +13,7 @@ Hello this is my blog. I suck at html
 
 ---
 
-Consider the curve $\Gamma \$ defined by the function:
+Consider the curve $(\Gamma)$ defined by the function:
 
 
 $$
