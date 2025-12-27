@@ -226,4 +226,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-math=true
+math: true
+
