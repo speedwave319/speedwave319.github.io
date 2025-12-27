@@ -10,17 +10,10 @@ math: true
 
 Hello this is my blog. I suck at html
 
-Inline: $\( \Gamma \)$
-
-Block:
-
-$$
-y = a(x - 1)^3 + b(x - 1)^2 + cx + 2 \quad \text{on } \Gamma
-$$
 
 ---
 
-Consider the curve \( \Gamma \) defined by the function:
+Consider the curve $\Gamma \$ defined by the function:
 
 
 $$
