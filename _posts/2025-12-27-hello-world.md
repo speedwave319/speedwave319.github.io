@@ -10,7 +10,7 @@ math: true
 
 Hello this is my blog. I suck at html
 
-Inline: \( \Gamma \)
+Inline: $\( \Gamma \)$
 
 Block:
 
