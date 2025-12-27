@@ -24,5 +24,9 @@ Hello this is my blog. I suck at html
 ##     (ii) Find the other extreme point(s) of $\Gamma$.
 
 
+### Worked Solution
+
+![](https://github.com/speedwave319/files/blob/cc03a4e200dc2c46d16d91c19b462e3d5551f18d/Untitled%20Notebook-2.pdf)
+
 
 
