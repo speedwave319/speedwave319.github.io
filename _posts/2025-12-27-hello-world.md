@@ -1,11 +1,11 @@
 ---
-layout: post
 title: "Hello World"
 date: 2025-12-27 20:50:00 +0800
 categories: [Hello World]
 tags: [math]     # TAG names should always be lowercase
 math: true
 description: test post with a math question
+toc: false
 ---
 
 # Hello World 
@@ -35,9 +35,9 @@ Hello this is my blog. I suck at html
 
 
 
-In bi), as $x = 1$ is a maximum point of $\Gamma$, therefore $\frac{d^2y}{dx^2}\Big|_{x=1} = 0$.
+### In bi), as $x = 1$ is a maximum point of $\Gamma$, therefore $\frac{d^2y}{dx^2}\Big|_{x=1} = 0$.
 
-Solving the inequality, we have $b < 0$. 
+### Solving the inequality, we have $b < 0$. 
 
 
 
