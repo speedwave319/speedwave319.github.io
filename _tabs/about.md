@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 Hi I am SpeedWave.
-I am a professional moron 
+
+I am a professional moron.
+
 Apparently I have nothing to do but to build this website
 
 
@@ -13,3 +15,6 @@ Apparently I have nothing to do but to build this website
 
 > Why are you here???
 {: .prompt-danger }
+
+> Seriously, why are you here???
+{: .prompt-warning }
