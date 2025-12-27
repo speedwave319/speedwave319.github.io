@@ -3,12 +3,12 @@ layout: post
 title: "Hello World"
 date: 2025-12-27 20:50:00 +0800
 categories: [Hello World]
-tags: [test]     # TAG names should always be lowercase
+tags: [math]     # TAG names should always be lowercase
 math: true
 description: test post with a math question
 ---
 
-#Hello World 
+# Hello World 
 
 Hello this is my blog. I suck at html
 
@@ -32,6 +32,9 @@ Hello this is my blog. I suck at html
 # Worked Solution
 
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/image3.jpg)
+
+In bi), as $x = 1$ is a maximum point of $\Gamma$, therefore $frac{dy}{dx}\Big|_{x=1} = 0$.
+solving, we have $ b < 0$. 
 
 
 
