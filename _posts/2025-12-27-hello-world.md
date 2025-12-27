@@ -10,6 +10,8 @@ math: true
 
 Hello this is my blog. I suck at html
 
+<span style="font-size: 20px;">This is larger text without a heading</span>
+
 
 ---
 
