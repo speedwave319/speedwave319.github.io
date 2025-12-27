@@ -8,3 +8,10 @@ tags: [TAG]     # TAG names should always be lowercase
 #Hello World 
 
 Hello this is my blog. I suck at html
+
+---
+math: true
+---
+
+
+Consider the curve \( \Gamma \) defined by the function: $$ y = a(x - 1)^3 + b(x - 1)^2 + cx + 2 $$ where \( a \), \( b \), and \( c \) are constants. It is given that the curve has a **maximum point at \( x = 1 \)**.
