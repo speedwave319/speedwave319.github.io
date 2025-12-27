@@ -9,5 +9,3 @@ I am a professional moron
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/touch-grass.gif)
 
 
-> Why are you here???
-{: .prompt-danger }
