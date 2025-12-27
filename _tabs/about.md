@@ -6,5 +6,8 @@ order: 4
 Hi I am SpeedWave.
 I am a professional moron 
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/touch-grass.gif)
+
+
+> Why are you here???
+{: .prompt-danger }
