@@ -12,7 +12,7 @@ Hello this is my blog. I suck at html
 
 ---
 
-Consider the curve \( \Gamma \) defined by the function: $E$
+Consider the curve \( \Gamma \) defined by the function: $G$
 
 $$
 y = a(x - 1)^3 + b(x - 1)^2 + cx + 2
