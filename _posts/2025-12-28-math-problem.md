@@ -4,7 +4,7 @@ date: 2025-12-28 16:50:00 +0800
 categories: [Hello World]
 tags: [math]     # TAG names should always be lowercase
 math: true
-description: test post with a math question
+description: kill me
 toc: false
 ---
 
