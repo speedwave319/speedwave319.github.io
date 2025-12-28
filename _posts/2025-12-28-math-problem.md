@@ -1,12 +1,14 @@
 ---
+layout: post
 title: "Math Problem 1"
 date: 2025-12-28 16:50:00 +0800
-categories: [Hello World]
-tags: [math]     # TAG names should always be lowercase
+categories: [math]
+tags: [math]
 math: true
-description: kill me
+description: "kill me"
 toc: false
 ---
+
 
 ---
 In the video game _Minecraft_, for each loaded chunk, every tick there is a $\frac{1}{100000}$ chance of  lightning strike during a thunderstorm.
