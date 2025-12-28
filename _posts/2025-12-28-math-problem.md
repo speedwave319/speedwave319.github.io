@@ -11,7 +11,7 @@ toc: false
 
 
 ---
-In the video game _Minecraft_, for each loaded chunk, every tick there is a $\frac{1}{100000}$ chance of  lightning strike during a thunderstorm.
+In the video game _Minecraft_, for each loaded chunk, every tick there is a $\frac{1}{100000}$ chance of  lightning strike during a thunderstorm. Assume a thunderstorm is currently active. 
 (Given: $1$ second $= 20$ ticks)
 
 (a) Find the expected value of lightning strikes in $1$ chuck in $30$ minutes.
@@ -20,9 +20,13 @@ In the video game _Minecraft_, for each loaded chunk, every tick there is a $\fr
 
 (hint: you may assume the probability follows the poisson distribution).
 
-(c) The weather is considered _severe_ when more than 9 chucks have at least $1$ lighting strike over a $30$ minute period. Assume 12 chunks are loaded.
+(c) The weather is considered _severe_ when more than $9$ chucks have at least $1$ lighting strike over a $30$ minute period. 
 
-Find the probability that the weather is _severe_.
+(i) Find the probability that the weather is _severe_ when $12$ chunks are loaded.
+
+(ii) Given that the weather is severe, find the probability that there are at least 12 lightning strikes in total across 12 chunks during the 30‑minute period.
+
+(iii) It is found that the amount of chunks loaded by players follows a normal distribution with mean 8 and standard deviation of 1.5. Find the probability that equal or less than 14 chunks are loaded among players and the weather isn't _severe_. 
 
 (d) In one chunk, how long does it take for the first lightning strike to occur where the probability is higher than $0.5$? Express your answer in minutes. 
 
