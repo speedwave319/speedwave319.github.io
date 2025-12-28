@@ -26,8 +26,6 @@ In the video game _Minecraft_, for each loaded chunk, every tick there is a $\fr
 
 (ii) Given that the weather is severe, find the probability that there are at least 12 lightning strikes in total across 12 chunks during the 30‑minute period.
 
-(iii) It is found that the amount of chunks loaded by players follows a normal distribution with mean 8 and standard deviation of 1.5. Find the probability that equal or less than 14 chunks are loaded among players and the weather isn't _severe_. 
-
 (d) In one chunk, how long does it take for the first lightning strike to occur where the probability is higher than $0.5$? Express your answer in minutes. 
 
 
