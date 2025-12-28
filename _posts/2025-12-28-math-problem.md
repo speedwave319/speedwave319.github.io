@@ -16,9 +16,7 @@ In the video game _Minecraft_, for each loaded chunk, every tick there is a $\fr
 
 (a) Find the expected value of lightning striking in $1$ chuck in an hour.
 
-(b) Using the value in (a), or otherwise, find the probability there are at least $1$ lighting strike in $1$ loaded chuck in an hour. 
-
-(hint: you may assume the probability follows the poisson distribution).
+(b) Using the value in (a), or otherwise, find the probability there are at least $1$ lighting strike in $1$ loaded chuck in an hour. Correct your answer to 5 decemial places.
 
 (c) The weather is considered _severe_ when more than $9$ chucks have at least $1$ lightning strike over an hour. 
 
