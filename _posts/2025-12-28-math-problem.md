@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Math Problem 1"
-date: 2025-12-28 16:50:00 +0800
+date: 2025-12-28 16:30:00 +0800
 categories: [math]
 tags: [math]
 math: true
