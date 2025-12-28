@@ -8,6 +8,7 @@ description: kill me
 toc: false
 ---
 
+---
 In the video game _Minecraft_, for each loaded chunk, every tick there is a $\frac{1}{100000}$ chance of  lightning strike during a thunderstorm.
 (Given: $1$ second $= 20$ ticks)
 
