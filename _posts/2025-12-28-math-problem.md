@@ -20,7 +20,7 @@ In the video game _Minecraft_, for each loaded chunk, every tick there is a $\fr
 
 (hint: you may assume the probability follows the poisson distribution).
 
-(c) The weather is considered _severe_ when more than $9$ chucks have at least $1$ lighting strike over an hour. 
+(c) The weather is considered _severe_ when more than $9$ chucks have at least $1$ lightning strike over an hour. 
 
 (i) Find the probability that the weather is _severe_ when $12$ chunks are loaded.
 
