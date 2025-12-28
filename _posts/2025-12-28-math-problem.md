@@ -16,7 +16,7 @@ In the video game _Minecraft_, for each loaded chunk, every tick there is a $\fr
 
 (a) Find the expected value of lightning striking in $1$ chuck in an hour.
 
-(b) Using the value in (a), or otherwise, find the probability there are at least $1$ lighting strike in 1 loaded chuck in an hour. 
+(b) Using the value in (a), or otherwise, find the probability there are at least $1$ lighting strike in $1$ loaded chuck in an hour. 
 
 (hint: you may assume the probability follows the poisson distribution).
 
@@ -24,7 +24,7 @@ In the video game _Minecraft_, for each loaded chunk, every tick there is a $\fr
 
 (i) Find the probability that the weather is _severe_ when $12$ chunks are loaded.
 
-(ii) Given that the weather is severe, find the probability that there are at least 12 lightning strikes in total across 12 chunks during the $1$ hour.
+(ii) Given that the weather is severe, find the probability that there are at least 12 lightning strikes in total across $12$ chunks during the $1$ hour.
 
 (d) In one chunk, how long does it take for the first lightning strike to occur where the probability is higher than $0.4$? Express your answer in minutes. 
 
