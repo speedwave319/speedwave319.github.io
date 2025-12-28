@@ -14,7 +14,7 @@ toc: false
 In the video game _Minecraft_, for each loaded chunk, every tick there is a $\frac{1}{100000}$ chance of  lightning strike during a thunderstorm. Assume a thunderstorm is currently active. 
 (Given: $1$ second $= 20$ ticks)
 
-(a) Find the expected value of lightning strikes in $1$ chuck in $30$ minutes.
+(a) Find the expected value of lightning striking in $1$ chuck in $30$ minutes.
 
 (b) Using the value in (a), or otherwise, find the probability there are at least $1$ lighting strike in 1 loaded chuck in $30$ minutes. 
 
