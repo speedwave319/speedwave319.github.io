@@ -17,6 +17,12 @@ let $f(x) = (2+ke^x)^3$, where $k$ is a real constant.
 
 (b) If the coefficient of $x$ in the expansion of $f(x)$ is $-9$, find the value of the coefficient of $x^2$ in this expansion. 
 
+($4 +3$ marks)
+
+Worked Solution 
+
+![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/image4.jpg)
+
 
 
 
