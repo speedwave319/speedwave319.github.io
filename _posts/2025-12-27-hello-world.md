@@ -35,7 +35,7 @@ Hello this is my blog. I suck at html
   src="/assets/pdfs/251227sol.pdf"
   type="application/pdf"
   width="100%"
-  height="800px"
+  height="1000px"
 />
 
 
