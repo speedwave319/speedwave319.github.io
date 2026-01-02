@@ -32,7 +32,7 @@ Hello this is my blog. I suck at html
 # Worked Solution
 
 <embed 
-  src="https://github.com/speedwave319/files/blob/f431a5286ebaeafc32cb3a9fe4a27b4485791ff1/pdfs/251227sol.pdf" 
+  src="https://raw.githubusercontent.com/speedwave319/files/f431a5286ebaeafc32cb3a9fe4a27b4485791ff1/pdfs/251227sol.pdf" 
   type="application/pdf" 
   width="100%" 
   height="100%"
