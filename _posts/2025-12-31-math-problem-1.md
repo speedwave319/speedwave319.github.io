@@ -25,8 +25,9 @@ Worked Solution
   src="/assets/pdfs/251231sol.pdf"
   type="application/pdf"
   width="100%"
-  height="800px"
+  height="1000px"
 />
+
 
 
 
