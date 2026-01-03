@@ -28,6 +28,12 @@ Worked Solution
   height="100vh"
 />
 
+<iframe
+    src="/assets/pdfs/251231sol.pdf#page=1&view=FitH"
+    style="width:100%; height:100vh; border:none;">
+</iframe>
+
+
 
 
 
