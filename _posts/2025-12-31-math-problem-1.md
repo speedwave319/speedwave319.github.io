@@ -21,17 +21,7 @@ let $f(x) = (2+ke^x)^3$, where $k$ is a real constant.
 
 Worked Solution 
 
-<embed 
-  src="/assets/pdfs/251231sol.pdf"
-  type="application/pdf"
-  width="100%"
-  height="100vh"
-/>
-
-<iframe
-    src="/assets/pdfs/251231sol.pdf#page=1&view=FitH"
-    style="width:100%; height:100vh; border:none;">
-</iframe>
+![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/251231sol.png)
 
 
 
