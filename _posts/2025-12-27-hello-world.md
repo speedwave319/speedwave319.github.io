@@ -31,13 +31,7 @@ Hello this is my blog. I suck at html
 
 # Worked Solution
 
-<embed 
-  src="/assets/pdfs/251227sol.pdf"
-  type="application/pdf"
-  width="100%"
-  height="100vh"
-/>
-
+![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/251227sol.png)
 
 
 ### In bi), as $x = 1$ is a maximum point of $\Gamma$, therefore $\frac{d^2y}{dx^2}\Big|_{x=1} < 0$.
