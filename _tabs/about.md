@@ -3,11 +3,11 @@
 icon: fas fa-info-circle
 order: 4
 ---
-Hi I am SpeedWave.
+professional moron
 
-I am a professional moron.
+posting random 💩 on this website 
 
-Apparently I have nothing to do but to build this website
+it would be a miracle for you to see this unless I told u to do so.
 
 
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/touch-grass.gif)
