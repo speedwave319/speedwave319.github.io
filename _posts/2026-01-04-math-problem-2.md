@@ -8,7 +8,7 @@ description: business
 toc: false
 ---
 
-# Let $(1 + mx)(1 + 5x)^n =$ $\displaystyle\sum\limits_{k=0}^{n+1} a_k x^k$, where $m$ is a constant. Given that $a_1 = 27$  and  $a_2 = 285$ ,find $m$ and $n$.
+## Let $(1 + mx)(1 + 5x)^n =$ $\displaystyle\sum\limits_{k=0}^{n+1} a_k x^k$, where $m$ is a constant. Given that $a_1 = 27$  and  $a_2 = 285$ ,find $m$ and $n$.
 
 
 
