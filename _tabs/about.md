@@ -5,7 +5,7 @@ order: 4
 ---
 professional moron
 
-posting random 💩 on this website 
+I post random 💩 on this website 
 
 it would be a miracle for you to see this unless I told u to do so.
 
