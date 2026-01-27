@@ -10,13 +10,16 @@ toc: false
 
 
 
-(a) Find a pair of constants $p$ and $q$ such that $11sinx + 7cosx ≡ p(3sinx + cosx) + q(3cosx - sinx)$.
+## (a) Find a pair of constants $p$ and $q$ such that $11sinx + 7cosx ≡ p(3sinx + cosx) + q(3cosx - sinx)$.
 
 
-(b) find $ \int_{0}^{\frac{\pi}{4}} \frac{11\sin x + 7\cos x}{3\sin x + \cos x}\, dx $ .
+## (b) find $\displaystyle \int_{0}^{\pi/4} \frac{11\sin x + 7\cos x}{3\sin x + \cos x}\ dx$.
 
-Suggested Solution 
-[]
+
+
+Suggested Solution
+
+![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260127sol.png)
 
 
 
