@@ -15,6 +15,8 @@ toc: false
 
 ## (b) Evaluate $\displaystyle \int_{0}^{\pi/4} \frac{11\sin x + 7\cos x}{3\sin x + \cos x}\ dx$.
 
+($2 + 4$ marks)
+
 
 
 Suggested Solution
