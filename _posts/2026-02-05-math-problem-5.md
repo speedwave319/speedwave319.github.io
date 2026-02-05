@@ -24,6 +24,7 @@ Suggested Solution
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260205sol.png)
 
 why am I torturing myself by doing this 
+
 and also yes I used a paper to do the question instead of the usual digital annotation 💩
 
 
