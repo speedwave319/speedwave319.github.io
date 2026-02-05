@@ -21,7 +21,7 @@ $$\tan\left(\frac{\pi}{4}+x\right) \tan\left(\frac{7\pi}{12}+x\right) \tan\left(
 ($2 + 3 + 3$ marks)
 
 Suggested Solution 
-[]
+![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260205sol.png)
 
 
 
