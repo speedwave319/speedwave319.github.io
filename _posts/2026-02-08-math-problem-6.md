@@ -1,6 +1,6 @@
 ---
 title: "Math Problem 6"
-date: 2026-02-08 23:00:00 +1100
+date: 2026-02-08 01:00:00 +1100
 categories: [math]
 tags: [math]     # TAG names should always be lowercase
 math: true
