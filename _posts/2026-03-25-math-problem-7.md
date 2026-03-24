@@ -14,12 +14,11 @@ the following question was completed on the 16th of Feb, 2026
 
 
 (a) Let $\theta\in\mathbb R$. Using mathematical induction, prove that  
-$\sin\theta\sum_{k=1}^n \sin(2k\theta)=\sin(n\theta)\sin((n+1)\theta)$  
+$\displaystyle\sin\theta\sum_{k=1}^n \sin(2k\theta)=\sin(n\theta)\sin((n+1)\theta)$  
 for all positive integers $n$.
 
 (b) Using part (a), find rational numbers $a$ and $b$ such that  
-$\sum_{k=1}^{111} \sin\frac{k\pi}{11}\cos\frac{k\pi}{11}=a\sin(b\pi)$,  
-where $0<b<\tfrac12$.
+$\displaystyle\sum_{k=1}^{111} \sin\frac{k\pi}{11}\cos\frac{k\pi}{11}=a\sin(b\pi)$,  where $0<b<\tfrac12$.
 
 
 ($5 + 3$ marks)
