@@ -26,7 +26,7 @@ the following question was completed on the 16th of Feb, 2026
 Suggested Solution 
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260325sol.png)
 
-> fml ngl
+> fml ngl im cooked 
 {: .prompt-danger }
 
 
