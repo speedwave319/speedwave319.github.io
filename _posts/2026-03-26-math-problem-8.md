@@ -27,6 +27,8 @@ Suggested Solution
 
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260326solb.png)
 
+> im cooked.
+{: .tip }
 
 
 
