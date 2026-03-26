@@ -1,5 +1,5 @@
 ---
-title: "Math Problem 6"
+title: "Math Problem 8"
 date: 2026-03-26 21:35:00 +1100
 categories: [math]
 tags: [math]     # TAG names should always be lowercase
@@ -32,7 +32,7 @@ Suggested Solution
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260326solb.png)
 
 > maybe one day I'll eventually credit the questions.
-{: .tip }
+{: .prompt-tip }
 
 
 
