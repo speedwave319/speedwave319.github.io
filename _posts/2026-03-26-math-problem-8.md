@@ -11,13 +11,17 @@ toc: false
 no I still haven't fully recovered and im wasting time again 
 
 
-(a) Let $\theta\in\mathbb R$. Using mathematical induction, prove that  
-$\sin\theta\sum_{k=1}^n \sin(2k\theta)=\sin(n\theta)\sin((n+1)\theta)$  
-for all positive integers $n$.
+Consider $f(x)=\dfrac{x-4}{x^2+9}$.
 
-(b) Using part (a), find rational numbers $a$ and $b$ such that  
-$\sum_{k=1}^{111} \sin\frac{k\pi}{11}\cos\frac{k\pi}{11}=a\sin(b\pi)$,  
-where $0<b<\tfrac12$.
+(a) Find $f'(x)$.
+
+(b) Find $\displaystyle\lim_{x\to+\infty} f(x)$.
+
+(c) Find the greatest value and the least value of $f(x)$.
+
+(d) Three tangents to the curve $y=f(x)$ pass through the point $\left(0,-\dfrac49\right)$.
+Find the slopes of these tangents.
+
 
 
 ($2 + 2 + 4 + 5$ marks)
@@ -27,7 +31,7 @@ Suggested Solution
 
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260326solb.png)
 
-> im cooked.
+> maybe one day I'll eventually credit the questions.
 {: .tip }
 
 
