@@ -10,8 +10,11 @@ toc: false
 
 Note that this question is modified from one of my previous questions. I'm also lazy to retype the questions so attached please find the question and solution. 
 
-
-<iframe src="https://raw.githubusercontent.com/speedwave319/files/main/pdfs/260530q%2Bsol.pdf" width="100%" height="600px"></iframe>
+<iframe 
+  src="https://github.com/speedwave319/files/blob/main/pdfs/260530q%2Bsol.pdf?raw=1"
+  width="100%" 
+  height="600px">
+</iframe>
 
 
 
