@@ -11,7 +11,9 @@ toc: false
 Note that this question is modified from one of my previous questions. I'm also lazy to retype the questions so attached please find the question and solution. 
 
 <iframe 
-  src="https://cdn.jsdelivr.net/gh/speedwave319/files@main/pdfs/260530q%2Bsol.pdf">
+  src="https://cdn.jsdelivr.net/gh/speedwave319/files@main/pdfs/260530q%2Bsol.pdf"
+  width="100%" 
+  height="600px">
 </iframe>
 
 
