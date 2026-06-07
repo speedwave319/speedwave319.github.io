@@ -12,7 +12,7 @@ Imagine there exists a loser that will post bs in his/her website to escape real
 
 Consider $\displaystyle g(x)=\frac{12\left(27e^{3x}+k e^{3}-11\right)}{54e^{3x}-36e+17}$.
 
-(a) It is known that the tangent to the graph $y = g(x)$ at $x = -ln3$ is a horizonal line. Show that $k = 9$. 
+(a) It is known that the tangent to the graph $y = g(x)$ at $x = -ln 3$ is a horizonal line. Show that $k = 9$. 
 
 (b) Find the maximum value and minimum value of $g(x)$. 
 
