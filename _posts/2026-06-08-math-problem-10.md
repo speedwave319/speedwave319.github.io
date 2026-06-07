@@ -10,7 +10,7 @@ toc: false
 
 Imagine there exists a loser that will post bs in his/her website to escape real life problems 
 
-Consider $g(x)=\frac{12\left(27e^{3x}+k e^{3}-11\right)}{54e^{3x}-36e+17}$.
+Consider $\displaystyleg(x)=\frac{12\left(27e^{3x}+k e^{3}-11\right)}{54e^{3x}-36e+17}$.
 
 (a) It is known that the tangent to the graph $y = g(x)$ at $x = -ln3$ is a horizonal line. Show that $k = 9$. 
 
@@ -23,7 +23,11 @@ Consider $g(x)=\frac{12\left(27e^{3x}+k e^{3}-11\right)}{54e^{3x}-36e+17}$.
 Suggested Solution 
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260608sol.png)
 
-and yes from an examination perspective this question is extremely unworthy of time, given that it's a pain in the ass + one mistake then you're done h
+and yes from an examination perspective this question is extremely unworthy of time, given that it's a pain in the ass + one mistake then you're done for 
+
+> I've slightly modified the marking to be more lenient.
+{: .prompt-tip }
+
 
 
 
