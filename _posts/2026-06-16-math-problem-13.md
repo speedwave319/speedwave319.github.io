@@ -12,6 +12,7 @@ toc: false
 
 (b) It is given that $\displaystyle I_1 = \int_{0}^{\frac12} \frac{2 - x^2}{1 + 4x^2}\ dx$ and $\displaystyle I_2 = \int_{0}^{\frac12} \frac{x^2}{1 + 4x^2}\ dx$.
 
+
 <div style="margin-left: 2em; text-indent: -1em;">
   
   (i) Prove that $I_1 + 9I_2 = 1$.
@@ -23,6 +24,7 @@ toc: false
   (ii) Evaluate $I_1 + I_2$. 
   
 </div>
+
 
 (c) Using the results of (b), or otherwise, evaluate $I_2$.
 
