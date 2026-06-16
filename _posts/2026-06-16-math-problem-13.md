@@ -16,6 +16,10 @@ toc: false
   
   (i) Prove that $I_1 + 9I_2 = 1$.
   
+</div>
+
+<div style="margin-left: 2em; text-indent: -1em;">
+  
   (ii) Evaluate $I_1 + I_2$. 
   
 </div>
@@ -25,6 +29,7 @@ toc: false
 (d) Evaluate $\displaystyle \int_{-\frac12}^{\frac12} \frac{1 + x^2}{1 + 4x^2}\ dx$.
 
 Suggested Solution 
+
 not available at the moment; please come back later 
 
 
