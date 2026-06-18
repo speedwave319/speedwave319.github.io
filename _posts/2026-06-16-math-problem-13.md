@@ -31,8 +31,7 @@ toc: false
 (d) Evaluate $\displaystyle \int_{-\frac12}^{\frac12} \frac{1 + x^2}{1 + 4x^2}\ dx$.
 
 Suggested Solution 
-
-not available at the moment; please come back later (I have to scan my worked solution)
+![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260616sol.png)
 
 
 > No marking scheme available for this question
