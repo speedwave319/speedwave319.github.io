@@ -8,7 +8,7 @@ description: why doesn't she message me
 toc: false
 ---
 
-I'm lazy sorry
+I'm lazy sorry, please refer to the pdf below 
 
 
 <iframe 
@@ -22,6 +22,7 @@ https://cdn.jsdelivr.net/gh/speedwave319/files@main/pdfs/260619q%2Bsol.pdf
 
 
 
-This question is a nightmare if you don't know how to manipulate the algebra properly 
-However, it's pretty obvious that a = 9 since 3 squared is 9
-Note that in my worked solution, I've already simplified the expression of $E(X)$ and $E(sqrtx)$. 
+This question is a nightmare if you don't know how to manipulate the algebra properly. 
+However, it's pretty obvious that a = 9 since $3^2 = 9$ and the question involves $E(\sqrt{x})$.
+
+Kindly note that in my worked solution, I've already simplified the expression of $E(X)$ and $E(\sqrt{x})$. 
