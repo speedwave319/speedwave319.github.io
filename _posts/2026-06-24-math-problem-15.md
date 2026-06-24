@@ -18,14 +18,16 @@ Let $x > 0$.
 
 
 ## Question 2 
-(a) Let $x \in (0, \frac{\pi}{2})$. Prove that $\csc2x - \cot2x = \tanx$. 
-(b) Hence, solve $\csc 3\theta - \cot 3\theta)(\csc \theta - \cot \theta) = 1$, for $\frac{\pi}{6} < \theta < \frac{\pi}{3}$. 
+(a) Let $\displaystyle x \in (0, \frac{\pi}{2})$. Prove that $\csc2x - \cot2x =  \tan x $. 
+
+(b) Hence, solve $\displaystyle (\csc 3\theta - \cot 3\theta)(\csc \theta - \cot \theta) = 1$, for $\displaystyle \frac{\pi}{6} < \theta < \frac{\pi}{3}$. 
 
 ($2 + 3$ marks)
 
-Suggested Solution 
+### Suggested Solution 
 ![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260624sol.png)
 
 
+kmskmskmskmskmskmskms
 
 
