@@ -10,7 +10,7 @@ toc: false
 
 (a) If $\displaystyle \frac{11}{(3x-4)(2x+1)} \equiv \frac{A}{3x-4}+\frac{B}{2x+1}$, find the values of $A$ and $B$. 
  
-(b) Using the result of (a), evaluate $\displaystyle \int_{2}{5} {11}{(3x-4)(2x+1)} dx$. 
+(b) Using the result of (a), evaluate $\displaystyle \int_{2}^{5} \frac{11}{(3x-4)(2x+1)}\ dx $. 
 
 
 ($2+2$ marks)
