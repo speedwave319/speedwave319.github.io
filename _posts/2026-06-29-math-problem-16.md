@@ -2,11 +2,12 @@
 title: "Math Problem 16"
 date: 2026-06-29 20:00:00 +1000
 categories: [math]
-tags: [math]     # TAG names should always be lowercase
+tags: [math]
 math: true
 description: f'(x) = +ve
 toc: false
 ---
+
 
 (a) Evaluate $\displaystyle \int_{0}^{1} \frac{1}{x^2+2x+5}\ dx$.
   
