@@ -1,0 +1,21 @@
+---
+title: "Math Problem 18"
+date: 2026-07-01 15:15:00 +1000
+categories: [math]
+tags: [math]
+math: true
+description: mean value theorem 
+toc: false
+--- 
+(a) let $a$ be a positive constant. 
+(i) Express $\displaystyle \int x\sqrt(x^2 +a)\ dx$ in terms of $a$.
+(ii) Prove that $\displaystyle \int (\frac{1}{x+ \sqrt(x^2 +a)})^2\ dx = \frac{2x^3}{3a^2} - \frac{2(x^2 +a)^\frac{3}{2}}{3a^2} + \frac{x}{a}+ C$, where $C$ is a constant. 
+
+(b) Define $\displaystyle f(x) = \frac{1}{x+ \sqrtx^2 +a}$ for all $x \geq 0$. Denote the graph of $y=f(x)$ by $G$. Let $R$ be the region bounded by $G$, the x-axis and the straight line $x=2$. Find the volume of the solid of revolution generated bt revolving R about the x-axis.  
+
+
+
+($(2+2)+4$ marks)
+
+Suggested Solution 
+![](https://raw.githubusercontent.com/speedwave319/files/refs/heads/main/images/260701sol.png)
