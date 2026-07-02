@@ -1,10 +1,10 @@
 ---
 title: "Math Problem 19"
-date: 2026-07-02 20:00:00 +1000
+date: 2026-07-02 23:00:00 +1000
 categories: [math]
 tags: [math]
 math: true
-description: central limit theorem  
+description: clt
 toc: false
 --- 
 (a) Let $k$ be a constant. Using integration by parts, prove that $\displaystyle \int \cos(k \ln x)\ dx = \frac{x}{1+k^2} \biggl[ (\cos(k\ln x)+ k\sin(k\ln x) \biggr]  + constant$. 
