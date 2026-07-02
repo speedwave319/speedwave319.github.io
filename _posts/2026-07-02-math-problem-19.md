@@ -7,8 +7,9 @@ math: true
 description: central limit theorem  
 toc: false
 --- 
-(a) Let $k$ be a constant. Using integration by parts, prove that $\displaystyle _int \cos(k\lnx)\ dx = \frac{x}{1+k^2}(\cos(k\lnx)(k\sin(k\lnx)+ constant$. 
-(b) Using (a), or otherwise, evaluate $\displaystyle \int_{1}^{e} \sin^2(\pi\lnx)\ dx. 
+(a) Let $k$ be a constant. Using integration by parts, prove that $\displaystyle \int \cos(k \ln x)\ dx = \frac{x}{1+k^2} \biggl[ (\cos(k\ln x)+ k\sin(k\ln x) \biggr]  + constant$. 
+
+(b) Using (a), or otherwise, evaluate $\displaystyle \int_{1}^{e} \sin^2(\pi \ln x)\ dx$. 
  
 
 
