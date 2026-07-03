@@ -11,9 +11,9 @@ toc: false
 Let $A$ and $B$ be two events. It is given that $P(A) = P(B|A)+0.1$ and $0.02+P(A \cap B) \leq 0.4 P(B|A)$.  
 
  (a) Find the range of values of $P(A)$.
- 
+
  (b) Are $A$ and $B$ mutually exclusive? Explain your answer.
- 
+
  (c) Suppose $A$ and $B$ are independent and $P(A)= 0.25$ . Find $P(A \cup B)$. 
 
 
