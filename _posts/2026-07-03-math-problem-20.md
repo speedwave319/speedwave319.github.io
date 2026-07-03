@@ -8,7 +8,7 @@ description: crap game
 toc: false
 ---
 
-Let $A$ and $B$ be two events. It is given that $P(A) = P(B|A)+0.1$ and $0.02+P(A \cap B) \leq 0.4 P(B|A)$.  
+Let $A$ and $B$ be two events. It is given that $P(A) = P(B \mid A)+0.1$ and $0.02+P(A \cap B) \leq 0.4 \ P(B \mid A)$.  
 
  (a) Find the range of values of $P(A)$.
 
