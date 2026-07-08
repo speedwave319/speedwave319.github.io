@@ -8,7 +8,7 @@ description: matrices
 toc: false
 ---
 
-Let  
+(a) Let  
 
 $$
 M =
