@@ -1,5 +1,5 @@
 ---
-title: "Math Problem 20"
+title: "Math Problem 21"
 date: 2026-07-08 21:15:00 +1000
 categories: [math]
 tags: [math]
