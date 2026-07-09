@@ -20,7 +20,7 @@ M =
 $$
 
 
-,where $b^2 + ac = 1$. Using mathematical induction, prove that   
+, where $b^2 + ac = 1$. Using mathematical induction, prove that   
 
 $$
 M^{2n} =
