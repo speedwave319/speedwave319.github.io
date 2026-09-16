@@ -11,6 +11,7 @@ toc: false
 
 
 ## Questions 
+---
 
 ### Question 1 
 Let $f(x) = x^2 \ln x$. Find $f'(x)$ from first principles. 
@@ -24,6 +25,7 @@ Let $f(x) = x^2 \ln x$. Find $f'(x)$ from first principles.
 (a) Using mathematical induction, prove that $\displaystyle \sum_{k=1}^{n} \frac{1}{1+2+3+\dots+k} = \frac{2n}{n+1}$ for all positive integers $n$. 
 
 (b) Using (a), evaulate 
+
 $$\displaystyle \frac{1}{2+4+6+\dots+100}+\frac{1}{2+4+6+\dots+102}+\frac{1}{2+4+6+\dots+104}+\dots+\frac{1}{2+4+6+\dots+200}.$$
 
 (4+2 marks)
