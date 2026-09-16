@@ -26,7 +26,7 @@ Let $f(x) = x^2 \ln x$. Find $f'(x)$ from first principles.
 
 (b) Using (a), evaulate 
 
-$$\displaystyle \frac{1}{2+4+6+\dots+100}+\frac{1}{2+4+6+\dots+102}+\frac{1}{2+4+6+\dots+104}+\dots+\frac{1}{2+4+6+\dots+200}.$$
+$\displaystyle \frac{1}{2+4+6+\dots+100}+\frac{1}{2+4+6+\dots+102}+\frac{1}{2+4+6+\dots+104}+\dots+\frac{1}{2+4+6+\dots+200}.$
 
 (4+2 marks)
 
