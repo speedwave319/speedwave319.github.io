@@ -3,7 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## About me 
+> it would be a miracle for you to view this website unless I told u to do so.
+{: .prompt-tip }
 
 I post random 💩 (mostly math slop) on this website. 
 
@@ -14,20 +15,26 @@ I post random 💩 (mostly math slop) on this website.
 ###  Questions that you may have
 
 (1) Where did your username come from? 
+
 Answer: the name came from a little discord activity called smash karts. 319 came from my previous student id. 
 
 (2) What are you currently studying in?
+
 Answer: BSc (prob major in math) and CS. 
 
 
 (3) The questions you posted are from different syllabuses! How come? 
+
 Answer: I took module 1 first, then studied module 2 on my own. 
 
 (4) You should stop swearing
+
 Answer: no 
+
 and I only swear here
 
 (5) Why does this website even exist in the first place
+
 Answer: I like to torture myself 
 
 
@@ -68,8 +75,7 @@ Answer: I like to torture myself
 > Seriously, why are you here???
 {: .prompt-warning }
 
-> it would be a miracle for you to see this unless I told u to do so.
-{: .prompt-tip }
+
 
 
 
