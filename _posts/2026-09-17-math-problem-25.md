@@ -12,7 +12,7 @@ I said I wasnt gonna use latex anymore but I lied ok
 
 
 ### Question
-Let $f(x) = 2^x + 2^{2-x}$. Denote the graph of $y = f(x)$ by *$\Gamma$*. 
+Let $f(x) = 2^x + 2^{2-x}$. Denote the graph of $y = f(x)$ by $\Gamma$. 
 
 (a) Find $\displaystyle\int f(x)\,dx$. 
 
