@@ -1,9 +1,4 @@
 ---
-title: 2026-09-17-math-problem-25.md
-
----
-
----
 title: "Math Problem 25"
 date: 2026-09-17 12:00:00 +1000
 categories: [math]
@@ -12,7 +7,10 @@ math: true
 description: I lied 
 toc: false
 ---
+
 I said I wasnt gonna use latex anymore but I lied ok 
+
+
 ### Question
 Let $f(x) = 2^x + 2^{2-x}$. Denote the graph of $y = f(x)$ by *$\Gamma$*. 
 
