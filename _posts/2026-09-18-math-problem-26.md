@@ -15,6 +15,7 @@ I don't know why. maybe because she dumped me
 (a) Let $f(x)$ be a continous function for $x \in [0, a]$, where $a$ is a constant. Prove that 
 
 $$\displaystyle \int_{0}^{a} f(x)\,dx = \int_{0}^{a} f(a-x)\,dx$$ 
+
 Hence, prove that 
 
 $$\displaystyle \int_{0}^{a} f(x)\,dx = \frac{1}{2}\int_{0}^{a} \Bigl[f(x) +f(a-x)\Bigr]\,dx$$
