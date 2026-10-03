@@ -33,13 +33,7 @@ $\space\color{red}{\boxed{\text{1M for either } \operatorname{E}(a-bx) \text{ OR
 
 (b) Suppose $X \sim B(n,p)$. 
 
-\begin{aligned}
-\text{Therefore, we have} \quad
-&\begin{cases}
-np = 1.5 \\
-np(1-p) = 1.75
-\end{cases}
-\end{aligned}
+Therefore, we have $\displaystyle \begin{cases} np = 1.5\\ np(1-p) = 1.75\end{cases}$
 
 $\displaystyle \implies \frac{1.5}{p}(p)(1-p) = 1.75$
 
